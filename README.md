@@ -57,7 +57,7 @@ The script expects input text files (Input_01.txt and Input_02.txt) containing a
 HOW TO RUN THE CODE? :
 •	Open the code file a.py along with the text files (Input_01.txt and Input_02.txt).
 •	If you haven't already, install the "Python" extension for VS Code. You can do this by clicking on the Extensions view icon in the Activity Bar on the side of the window (or by pressing Ctrl+Shift+X), searching for "Python," and installing the one provided by Microsoft.
-•	Execute the script using the following command: python a.py
+•	Execute the script using the following command: python main.py
 
 
 
