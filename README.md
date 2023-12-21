@@ -8,9 +8,13 @@ It begins by importing the time module. It defines a recursive function, is_comp
 
 Functions:
 The script includes the following functions:
+
 •	is_compounded_or_not(test_word, original_test_word, test_word_set): Checks whether a given test word is compounded.
+
 •	longest_compounded_test_word(test_words): Finds the longest compounded test word from a list of test words.
+
 •	second_longest_compounded_test_word(test_words, longest_test_word): Finds the second-longest compounded test word from a list of test words, excluding the longest.
+
 
 Example:
 For Text file 01: 
